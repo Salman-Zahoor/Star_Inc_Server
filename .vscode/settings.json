@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/3ef35ae1-e380-4534-912f-2c7be18d3ef7/resourceGroups/RG-App-Prod-YHN/providers/Microsoft.Web/sites/StarsInc-server",
+    "appService.deploySubpath": "."
+}
